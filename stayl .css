@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(42, 93, 90);
+    height: 100vh;
+}
+
+.container {
+    width: 636px;
+    height: 116px;
+    font-size: 64px;
+    background: rgb(49, 19, 19);
+    color: aliceblue;
+    margin: 24px auto;
+    padding: 22px 17px;
+    text-align: center;
+}
+
+.container2 {
+    border: 10px solid rgb(255, 6, 6);
+    background: rgb(0, 0, 0);
+    margin: 55px auto;
+    width: 1000px;
+    height: 638px;
+}
+
+.box {
+    width: 896px;
+    height: 259px;
+    margin: 32px auto;
+    background: rgb(31, 232, 183);
+    font-size: 24px;
+    padding: 70px 39px;
+    text-align: justify;
+}
